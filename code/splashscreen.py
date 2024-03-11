@@ -19,3 +19,4 @@ def build(root: tk.Tk) -> tk.Label:
     # Make background black
     splash_screen.configure(background="black")
     return splash_screen
+
